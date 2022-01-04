@@ -1,0 +1,44 @@
+body {
+    background-color: lightcyan;
+}
+
+.center-elements {
+    text-align: center;
+}
+
+
+
+.red-text {
+    color: red;
+    font-size: 30px;
+    margin-top:40px;
+    
+}
+
+.blue-text {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.img1 {
+    border-color: green;
+    border-width: 4px;
+    border-style: dotted;
+    border-radius: 20px;
+}
+
+.img2 {
+    border-color: red;
+    border-width: 6px;
+    border-style: solid;
+    border-radius: 10px;
+    width: 500px;
+}
+
+button {
+    border-color: green;
+    background-color: coral;
+    border-width: 20px;
+    font-size: 30px;
+    border-radius: 5px;
+}
